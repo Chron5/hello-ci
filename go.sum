@@ -1,0 +1,4 @@
+github.com/go-redis/redis v6.15.6+incompatible h1:H9evprGPLI8+ci7fxQx6WNZHJSb7be8FqJQRhdQZ5Sg=
+github.com/go-redis/redis v6.15.6+incompatible/go.mod h1:NAIEuMOZ/fxfXJIrKDQDz8wamY7mA7PouImQ2Jvg6kA=
+proton.vir000.com/hello/go-utility v0.1.0 h1:9WgpzforABi9DvGeyVDV6T8Pr65JVkkD6/NYKCbL9tw=
+proton.vir000.com/hello/go-utility v0.1.0/go.mod h1:WbF4HfTiybzf4LyTjrl5g/kqbCZVhcC9bBH06i46hBM=
